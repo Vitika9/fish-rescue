@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/DirChange.mp3-d42db85679385f5b15fb429b297b714d.mp3str"
+
+[deps]
+
+source_file="res://UFO/DirChange.mp3"
+dest_files=[ "res://.import/DirChange.mp3-d42db85679385f5b15fb429b297b714d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
